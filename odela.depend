@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1579270983 source:c:\users\dejan\desktop\c_faks\domaci\odela\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1579270330 c:\users\dejan\desktop\c_faks\domaci\odela\header.h
+
+1579270591 source:c:\users\dejan\desktop\c_faks\domaci\odela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1579270591 source:c:\users\dejan\desktop\c_faks\domaci\dejan_bojovic_s51_19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1583833214 c:\users\dejan\desktop\c_faks\domaci\dejan_bojovic_s51_19\header.h
+
+1583833212 source:c:\users\dejan\desktop\c_faks\domaci\dejan_bojovic_s51_19\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1583833467 source:c:\users\dejan\desktop\c_faks\domaci\suits-archive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1583833214 c:\users\dejan\desktop\c_faks\domaci\suits-archive\header.h
+
+1583833212 source:c:\users\dejan\desktop\c_faks\domaci\suits-archive\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
